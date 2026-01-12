@@ -36,18 +36,26 @@ The Library Management System is a Java-based application designed to manage lib
 ▶️ How to Run the Project
 
 1 Install JDK and MySQL
+
 2 Create the required database and tables
+
 3 Open the project in Eclipse
+
 4 Add MySQL JDBC Connector to the build path
+
 5 Update database credentials in the code
+
 6 Run the main Java file
 
 
 📖 Learning Outcomes
 
 Understanding Java OOP concepts
+
 Hands-on experience with JDBC
+
 SQL CRUD operations
+
 Real-time database interaction
 
 
